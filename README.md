@@ -13,9 +13,8 @@
 | Стейкхолдеры | [`motivation/stakeholders.md`](motivation/stakeholders.md) |
 | Бизнес-драйверы | [`motivation/drivers.md`](motivation/drivers.md) |
 | Бизнес-цели | [`motivation/goals.md`](motivation/goals.md) |
-
-[Capability][CAPABILITY-TERM] и ключевые сценарии — в каталоге `capability/` (по
-мере появления).
+| [Capability][CAPABILITY-TERM] (каталог) | [`capability/`](capability/) |
+| Профили Git Herder | [`capability/profiles.md`](capability/profiles.md) |
 
 ## Вне области продукта
 
