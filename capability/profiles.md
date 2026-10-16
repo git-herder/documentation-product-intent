@@ -85,7 +85,8 @@ last_reviewed: 2026-10-16
 ### Не входит
 
 - Сами массовые операции — отдельные capability и [бизнес-цели][goals.md]
-  (например, [массовое клонирование][mass-clone.md]; отчёты, публикация,
+  (например, [массовое клонирование][mass-clone.md],
+  [отчёт о репозиториях в SCM][scm-repository-reports.md]; публикация,
   обновление копий, переключение веток, remotes — по мере описания).
 - Формат хранения конфигурации, расположение файлов на диске, имена команд CLI,
   способ хранения секретов — прикладная спецификация.
@@ -156,3 +157,4 @@ last_reviewed: 2026-10-16
 [repository-selection.md]: repository-selection.md
 [mass-clone.md]: mass-clone.md
 [resilient-network-execution.md]: resilient-network-execution.md
+[scm-repository-reports.md]: scm-repository-reports.md

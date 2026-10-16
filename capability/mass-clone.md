@@ -105,7 +105,7 @@ Git Herder позволяет **одной командой** получить �
   [отказоустойчивое выполнение][resilient-network-execution.md].
 - Обновление уже существующих копий (pull/fetch, sync) — [BG-6][bg-6] и отдельные
   capability операций.
-- Отчёты о состоянии SCM без клонирования — [BG-2][bg-2].
+- [Отчёты о репозиториях в SCM][scm-repository-reports.md] — [BG-2][bg-2].
 - Имена команд и флагов CLI, маппинг групп SCM на пути, значения политик по
   умолчанию — прикладная спецификация.
 
@@ -172,3 +172,4 @@ Git Herder позволяет **одной командой** получить �
 [bd-1]: ../motivation/drivers.md#bd-1
 [bd-2]: ../motivation/drivers.md#bd-2
 [bd-7]: ../motivation/drivers.md#bd-7
+[scm-repository-reports.md]: scm-repository-reports.md

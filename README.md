@@ -23,6 +23,7 @@
 | Защита от случайных нежелательных изменений                 | `[capability/operation-preview.md](capability/operation-preview.md)` |
 | Массовое клонирование из SCM                               | `[capability/mass-clone.md](capability/mass-clone.md)` |
 | Отказоустойчивое выполнение массовых сетевых операций      | `[capability/resilient-network-execution.md](capability/resilient-network-execution.md)` |
+| Отчёт о репозиториях в SCM                                 | `[capability/scm-repository-reports.md](capability/scm-repository-reports.md)` |
 
 ## Вне области продукта
 

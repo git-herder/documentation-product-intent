@@ -84,8 +84,9 @@ last_reviewed: 2026-10-16
 
 ### Не входит
 
-- Конкретные массовые операции ([массовое клонирование][mass-clone.md], отчёты,
-  публикация и т.д.) — отдельные capability и [бизнес-цели][goals.md].
+- Конкретные массовые операции ([массовое клонирование][mass-clone.md],
+  [отчёт о репозиториях в SCM][scm-repository-reports.md], публикация и т.д.) —
+  отдельные capability и [бизнес-цели][goals.md].
 - Прогресс и сообщения в терминале — [обратная связь в терминале][terminal-feedback.md].
 - Журнал выполнения и детализация попыток — [трассировка выполнения][operation-trace.md]
   (объём записи — в спецификации).
@@ -145,6 +146,7 @@ last_reviewed: 2026-10-16
 [upward-references]: ../../../playbook/principles/upward-references.md
 [profiles.md]: profiles.md
 [mass-clone.md]: mass-clone.md
+[scm-repository-reports.md]: scm-repository-reports.md
 [terminal-feedback.md]: terminal-feedback.md
 [operation-trace.md]: operation-trace.md
 [ST-1]: ../motivation/stakeholders.md#st-1

@@ -123,8 +123,9 @@ Git Herder позволяет запустить поддерживаемую м
 ### Не входит
 
 - Сам execute и достижение [бизнес-целей][goals.md] операций.
-- Ad-hoc **отчёты о состоянии** SCM без привязки к конкретной массовой операции —
-  [BG-2][bg-2] (отдельная цель, не замена предпросмотра).
+- Ad-hoc **отчёты о репозиториях** на SCM (список, счётчик) —
+  [отчёт о репозиториях в SCM][scm-repository-reports.md] / [BG-2][bg-2]; не
+  заменяют отчёт **плана** предпросмотра.
 - Модель отбора — [единый отбор][repository-selection.md]; хранение дефолтов
   порога в профиле как механизм — [профили][profiles.md].
 - Краткие сообщения в терминале во время preview и форма диалога подтверждения —
@@ -194,6 +195,7 @@ Git Herder позволяет запустить поддерживаемую м
 [profiles.md]: profiles.md
 [terminal-feedback.md]: terminal-feedback.md
 [operation-trace.md]: operation-trace.md
+[scm-repository-reports.md]: scm-repository-reports.md
 [ST-1]: ../motivation/stakeholders.md#st-1
 [ST-3]: ../motivation/stakeholders.md#st-3
 [bg-1]: ../motivation/goals.md#bg-1
