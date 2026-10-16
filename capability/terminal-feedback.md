@@ -68,11 +68,6 @@ last_reviewed: 2026-10-16
 
 ### Не входит
 
-- Полный журнал выполнения для постфактум-разбора — см.
-  [трассировку выполнения][operation-trace.md].
-- Политика **порога подтверждения** и полный **отчёт плана** предпросмотра — см.
-  [защиту от нежелательных массовых изменений][operation-preview.md] (здесь —
-  краткие сообщения, прогресс и интерактивный запрос, если применимо).
 - Неинтерактивный режим для CI и скриптов без TTY — отдельная инициатива позже.
 - Сбор и долговременное хранение секретов через stdin — см. [README.md](../README.md)
   (учётные данные через окружение или ОС).
@@ -95,12 +90,8 @@ last_reviewed: 2026-10-16
 
 ## Не делать здесь
 
-- Не описывать user stories и acceptance criteria — для backlog и
-  specifications.
-- Не рисовать ArchiMate — для `architecture`.
-- Не фиксировать технологические решения — для `ADR`.
-- Не ссылаться на architecture, specifications и код — нижние слои ссылаются
-  сюда сами ([ссылки только вверх][upward-references]).
+- Не входит полностью интерактивный CLI; целевая картина — CLI, которому параметры передаются в конфиге или командной строке, но он может в отдельных случаях проявлять инетрактивность.
+- Полностью интерактивным Git Herder не должен становиться.
 
 ## Открытые вопросы
 
@@ -121,10 +112,7 @@ last_reviewed: 2026-10-16
 
 [STAKEHOLDER-TERM]: ../../../glossary/terms/stakeholder.md
 [goals.md]: ../motivation/goals.md
-[upward-references]: ../../../playbook/principles/upward-references.md
 [profiles.md]: profiles.md
-[operation-trace.md]: operation-trace.md
-[operation-preview.md]: operation-preview.md
 [ST-1]: ../motivation/stakeholders.md#st-1
 [ST-3]: ../motivation/stakeholders.md#st-3
 [bg-1]: ../motivation/goals.md#bg-1

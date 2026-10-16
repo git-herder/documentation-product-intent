@@ -85,17 +85,7 @@ API) в форме Git Herder и запускает разные массовы�
 
 ### Не входит
 
-- Сами операции над репозиториями — [бизнес-цели][goals.md] и capability по
-  операциям (например, [массовое клонирование][mass-clone.md]).
-- Подключение, учётная запись и дефолты профиля как таковые — см.
-  [профили Git Herder][profiles.md] (семантика отбора определена здесь).
-- Защита от случайных изменений (порог, предпросмотр) — см.
-  [защиту от нежелательных массовых изменений][operation-preview.md].
-- Операция [отчёта о репозиториях в SCM][scm-repository-reports.md] — отдельная
-  capability; параметры отбора для неё задаются здесь.
 - Маппинг на API SCM, имена флагов, валидация — прикладная спецификация.
-- Фиксация применённого отбора в журнале — см.
-  [трассировку выполнения][operation-trace.md].
 
 ## Инварианты и углубление
 
@@ -143,10 +133,8 @@ API) в форме Git Herder и запускает разные массовы�
 
 [SCM-PLATFORM-TERM]: ../../../glossary/terms/scm-platform.md
 [STAKEHOLDER-TERM]: ../../../glossary/terms/stakeholder.md
-[goals.md]: ../motivation/goals.md
 [upward-references]: ../../../playbook/principles/upward-references.md
 [profiles.md]: profiles.md
-[operation-trace.md]: operation-trace.md
 [ST-1]: ../motivation/stakeholders.md#st-1
 [ST-3]: ../motivation/stakeholders.md#st-3
 [bg-1]: ../motivation/goals.md#bg-1
@@ -160,6 +148,5 @@ API) в форме Git Herder и запускает разные массовы�
 [bd-1]: ../motivation/drivers.md#bd-1
 [bd-5]: ../motivation/drivers.md#bd-5
 [bd-7]: ../motivation/drivers.md#bd-7
-[operation-preview.md]: operation-preview.md
 [mass-clone.md]: mass-clone.md
 [scm-repository-reports.md]: scm-repository-reports.md

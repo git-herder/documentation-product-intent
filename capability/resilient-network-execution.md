@@ -84,15 +84,9 @@ last_reviewed: 2026-10-16
 
 ### Не входит
 
-- Конкретные массовые операции ([массовое клонирование][mass-clone.md],
-  [отчёт о репозиториях в SCM][scm-repository-reports.md], публикация и т.д.) —
-  отдельные capability и [бизнес-цели][goals.md].
-- Прогресс и сообщения в терминале — [обратная связь в терминале][terminal-feedback.md].
-- Журнал выполнения и детализация попыток — [трассировка выполнения][operation-trace.md]
-  (объём записи — в спецификации).
 - Алгоритм backoff, параллельность воркеров, лимиты нагрузки на SCM — spec / ADR.
-- Политики **не-сетевых** ошибок на объекте (права, «не найден») — в capability
-  соответствующей операции; семантика skip vs abort может согласовываться в spec.
+- Классификация **не-сетевых** ошибок на объекте и политики skip vs abort для
+  них — прикладная спецификация соответствующей операции.
 
 ## Инварианты и углубление
 
@@ -142,11 +136,8 @@ last_reviewed: 2026-10-16
 <!-- LINKS -->
 
 [STAKEHOLDER-TERM]: ../../../glossary/terms/stakeholder.md
-[goals.md]: ../motivation/goals.md
 [upward-references]: ../../../playbook/principles/upward-references.md
 [profiles.md]: profiles.md
-[mass-clone.md]: mass-clone.md
-[scm-repository-reports.md]: scm-repository-reports.md
 [terminal-feedback.md]: terminal-feedback.md
 [operation-trace.md]: operation-trace.md
 [ST-1]: ../motivation/stakeholders.md#st-1

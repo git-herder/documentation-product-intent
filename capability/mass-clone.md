@@ -100,12 +100,8 @@ Git Herder позволяет **одной командой** получить �
 
 ### Не входит
 
-- Модель отбора — [единый отбор][repository-selection.md].
-- Очередь, ретраи и таймауты сетевых шагов —
-  [отказоустойчивое выполнение][resilient-network-execution.md].
-- Обновление уже существующих копий (pull/fetch, sync) — [BG-6][bg-6] и отдельные
-  capability операций.
-- [Отчёты о репозиториях в SCM][scm-repository-reports.md] — [BG-2][bg-2].
+- Обновление уже существующих копий (pull/fetch, sync) — отдельные операции
+  продукта.
 - Имена команд и флагов CLI, маппинг групп SCM на пути, значения политик по
   умолчанию — прикладная спецификация.
 
@@ -167,9 +163,7 @@ Git Herder позволяет **одной командой** получить �
 [ST-1]: ../motivation/stakeholders.md#st-1
 [ST-2]: ../motivation/stakeholders.md#st-2
 [bg-1]: ../motivation/goals.md#bg-1
-[bg-2]: ../motivation/goals.md#bg-2
 [bg-6]: ../motivation/goals.md#bg-6
 [bd-1]: ../motivation/drivers.md#bd-1
 [bd-2]: ../motivation/drivers.md#bd-2
 [bd-7]: ../motivation/drivers.md#bd-7
-[scm-repository-reports.md]: scm-repository-reports.md

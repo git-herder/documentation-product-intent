@@ -55,8 +55,6 @@ last_reviewed: 2026-10-16
 
 ### Не входит
 
-- Вывод прогресса и поясняющих сообщений в терминал во время работы — см.
-  [обратную связь в терминале][terminal-feedback.md].
 - Долговременный аудит на сервере или в SCM.
 - Политика секретов и уровень детализации чувствительных полей — прикладная
   спецификация.
@@ -80,12 +78,7 @@ last_reviewed: 2026-10-16
 
 ## Не делать здесь
 
-- Не описывать user stories и acceptance criteria — для backlog и
-  specifications.
-- Не рисовать ArchiMate — для `architecture`.
-- Не фиксировать технологические решения — для `ADR`.
-- Не ссылаться на architecture, specifications и код — нижние слои ссылаются
-  сюда сами ([ссылки только вверх][upward-references]).
+- Профилирование длительности выполнения операций
 
 ## Открытые вопросы
 
@@ -106,7 +99,6 @@ last_reviewed: 2026-10-16
 [STAKEHOLDER-TERM]: ../../../glossary/terms/stakeholder.md
 [upward-references]: ../../../playbook/principles/upward-references.md
 [profiles.md]: profiles.md
-[terminal-feedback.md]: terminal-feedback.md
 [ST-1]: ../motivation/stakeholders.md#st-1
 [bg-1]: ../motivation/goals.md#bg-1
 [bg-2]: ../motivation/goals.md#bg-2

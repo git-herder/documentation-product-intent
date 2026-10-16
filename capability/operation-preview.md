@@ -123,14 +123,6 @@ Git Herder позволяет запустить поддерживаемую м
 ### Не входит
 
 - Сам execute и достижение [бизнес-целей][goals.md] операций.
-- Ad-hoc **отчёты о репозиториях** на SCM (список, счётчик) —
-  [отчёт о репозиториях в SCM][scm-repository-reports.md] / [BG-2][bg-2]; не
-  заменяют отчёт **плана** предпросмотра.
-- Модель отбора — [единый отбор][repository-selection.md]; хранение дефолтов
-  порога в профиле как механизм — [профили][profiles.md].
-- Краткие сообщения в терминале во время preview и форма диалога подтверждения —
-  см. [обратную связь в терминале][terminal-feedback.md]; полный отчёт плана —
-  здесь.
 - Конкретное число порога по умолчанию, имена параметров CLI, форматы вывода,
   поля запросов — прикладная спецификация.
 
@@ -158,12 +150,7 @@ Git Herder позволяет запустить поддерживаемую м
 
 ## Не делать здесь
 
-- Не описывать user stories и acceptance criteria — для backlog и
-  specifications.
-- Не рисовать ArchiMate — для `architecture`.
-- Не фиксировать технологические решения — для `ADR`.
-- Не ссылаться на architecture, specifications и код — нижние слои ссылаются
-  сюда сами ([ссылки только вверх][upward-references]).
+- Проверка доступности SCM и иных ресурсов
 
 ## Открытые вопросы
 
@@ -190,12 +177,10 @@ Git Herder позволяет запустить поддерживаемую м
 
 [STAKEHOLDER-TERM]: ../../../glossary/terms/stakeholder.md
 [goals.md]: ../motivation/goals.md
-[upward-references]: ../../../playbook/principles/upward-references.md
 [repository-selection.md]: repository-selection.md
 [profiles.md]: profiles.md
 [terminal-feedback.md]: terminal-feedback.md
 [operation-trace.md]: operation-trace.md
-[scm-repository-reports.md]: scm-repository-reports.md
 [ST-1]: ../motivation/stakeholders.md#st-1
 [ST-3]: ../motivation/stakeholders.md#st-3
 [bg-1]: ../motivation/goals.md#bg-1

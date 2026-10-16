@@ -84,10 +84,6 @@ last_reviewed: 2026-10-16
 
 ### Не входит
 
-- Сами массовые операции — отдельные capability и [бизнес-цели][goals.md]
-  (например, [массовое клонирование][mass-clone.md],
-  [отчёт о репозиториях в SCM][scm-repository-reports.md]; публикация,
-  обновление копий, переключение веток, remotes — по мере описания).
 - Формат хранения конфигурации, расположение файлов на диске, имена команд CLI,
   способ хранения секретов — прикладная спецификация.
 - Хостинг SCM и выдача учётных записей на стороне платформы.
@@ -114,12 +110,8 @@ last_reviewed: 2026-10-16
 
 ## Не делать здесь
 
-- Не описывать user stories и acceptance criteria — для backlog и
-  specifications.
-- Не рисовать ArchiMate — для `architecture`.
-- Не фиксировать технологические решения — для `ADR`.
-- Не ссылаться на architecture, specifications и код — нижние слои ссылаются
-  сюда сами ([ссылки только вверх][upward-references]).
+- Профилирование длительности выполнения операций
+- Возможности задания более одного SCM в профиле
 
 ## Открытые вопросы
 
@@ -142,7 +134,6 @@ last_reviewed: 2026-10-16
 [SCM-PLATFORM-TERM]: ../../../glossary/terms/scm-platform.md
 [STAKEHOLDER-TERM]: ../../../glossary/terms/stakeholder.md
 [goals.md]: ../motivation/goals.md
-[upward-references]: ../../../playbook/principles/upward-references.md
 [ST-1]: ../motivation/stakeholders.md#st-1
 [ST-3]: ../motivation/stakeholders.md#st-3
 [bg-1]: ../motivation/goals.md#bg-1
@@ -157,4 +148,3 @@ last_reviewed: 2026-10-16
 [repository-selection.md]: repository-selection.md
 [mass-clone.md]: mass-clone.md
 [resilient-network-execution.md]: resilient-network-execution.md
-[scm-repository-reports.md]: scm-repository-reports.md
