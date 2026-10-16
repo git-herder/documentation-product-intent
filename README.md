@@ -21,6 +21,8 @@
 | Обратная связь в терминале                                 | `[capability/terminal-feedback.md](capability/terminal-feedback.md)` |
 | Единый отбор для массовых операций                         | `[capability/repository-selection.md](capability/repository-selection.md)` |
 | Защита от случайных нежелательных изменений                 | `[capability/operation-preview.md](capability/operation-preview.md)` |
+| Массовое клонирование из SCM                               | `[capability/mass-clone.md](capability/mass-clone.md)` |
+| Отказоустойчивое выполнение массовых сетевых операций      | `[capability/resilient-network-execution.md](capability/resilient-network-execution.md)` |
 
 ## Вне области продукта
 
