@@ -12,10 +12,10 @@
 <!-- markdownlint-disable MD060 -->
 | Раздел                                                     | Файл                                                       |
 | ---------------------------------------------------------- | ---------------------------------------------------------- |
-| Стейкхолдеры                                               | `[motivation/stakeholders.md](motivation/stakeholders.md)` |
-| Бизнес-драйверы                                            | `[motivation/drivers.md](motivation/drivers.md)`           |
-| Бизнес-цели                                                | `[motivation/goals.md](motivation/goals.md)`               |
-| [Capability](../../glossary/terms/capability.md) | `[capability/README.md](capability/README.md)` (каталог по контекстам) |
+| Стейкхолдеры                                               | [motivation/stakeholders.md](motivation/stakeholders.md) |
+| Бизнес-драйверы                                            | [motivation/drivers.md](motivation/drivers.md)           |
+| Бизнес-цели                                                | [motivation/goals.md](motivation/goals.md)               |
+| [Capability](../../glossary/terms/capability.md) | [capability/README.md](capability/README.md) (каталог по контекстам) |
 
 ## Вне области продукта
 
