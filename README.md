@@ -20,7 +20,7 @@
 | Трассировка выполнения                                     | `[capability/operation-trace.md](capability/operation-trace.md)` |
 | Обратная связь в терминале                                 | `[capability/terminal-feedback.md](capability/terminal-feedback.md)` |
 | Единый отбор для массовых операций                         | `[capability/repository-selection.md](capability/repository-selection.md)` |
-| Предпросмотр массовых операций                             | `[capability/operation-preview.md](capability/operation-preview.md)` |
+| Защита от случайных нежелательных изменений                 | `[capability/operation-preview.md](capability/operation-preview.md)` |
 
 ## Вне области продукта
 
