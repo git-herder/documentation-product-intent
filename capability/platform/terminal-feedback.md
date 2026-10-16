@@ -69,7 +69,7 @@ last_reviewed: 2026-10-16
 ### Не входит
 
 - Неинтерактивный режим для CI и скриптов без TTY — отдельная инициатива позже.
-- Сбор и долговременное хранение секретов через stdin — см. [README.md](../README.md)
+- Сбор и долговременное хранение секретов через stdin — см. [README.md](../../README.md)
   (учётные данные через окружение или ОС).
 - Выбор библиотек TUI, разметка stderr — прикладная спецификация или ADR.
 
@@ -96,7 +96,7 @@ last_reviewed: 2026-10-16
 ## Открытые вопросы
 
 - Полный перечень ситуаций, требующих **stdin**, и связь с best-effort в
-  [goals.md](goals.md) (продолжить после ошибки в одной копии).
+  [goals.md][goals.md] (продолжить после ошибки в одной копии).
 - Разделение **stdout и stderr** для ошибок и предупреждений.
 - Поведение при **неинтерактивном** окружении (заглушка до отдельной capability).
 
@@ -110,17 +110,17 @@ last_reviewed: 2026-10-16
 
 <!-- LINKS -->
 
-[STAKEHOLDER-TERM]: ../../../glossary/terms/stakeholder.md
-[goals.md]: ../motivation/goals.md
+[STAKEHOLDER-TERM]: ../../../../glossary/terms/stakeholder.md
+[goals.md]: ../../motivation/goals.md
 [profiles.md]: profiles.md
-[ST-1]: ../motivation/stakeholders.md#st-1
-[ST-3]: ../motivation/stakeholders.md#st-3
-[bg-1]: ../motivation/goals.md#bg-1
-[bg-2]: ../motivation/goals.md#bg-2
-[bg-3]: ../motivation/goals.md#bg-3
-[bg-4]: ../motivation/goals.md#bg-4
-[bg-5]: ../motivation/goals.md#bg-5
-[bg-6]: ../motivation/goals.md#bg-6
-[bg-7]: ../motivation/goals.md#bg-7
-[bg-8]: ../motivation/goals.md#bg-8
-[bd-3]: ../motivation/drivers.md#bd-3
+[ST-1]: ../../motivation/stakeholders.md#st-1
+[ST-3]: ../../motivation/stakeholders.md#st-3
+[bg-1]: ../../motivation/goals.md#bg-1
+[bg-2]: ../../motivation/goals.md#bg-2
+[bg-3]: ../../motivation/goals.md#bg-3
+[bg-4]: ../../motivation/goals.md#bg-4
+[bg-5]: ../../motivation/goals.md#bg-5
+[bg-6]: ../../motivation/goals.md#bg-6
+[bg-7]: ../../motivation/goals.md#bg-7
+[bg-8]: ../../motivation/goals.md#bg-8
+[bd-3]: ../../motivation/drivers.md#bd-3

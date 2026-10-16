@@ -96,17 +96,17 @@ last_reviewed: 2026-10-16
 
 <!-- LINKS -->
 
-[STAKEHOLDER-TERM]: ../../../glossary/terms/stakeholder.md
-[upward-references]: ../../../playbook/principles/upward-references.md
+[STAKEHOLDER-TERM]: ../../../../glossary/terms/stakeholder.md
+[upward-references]: ../../../../playbook/principles/upward-references.md
 [profiles.md]: profiles.md
-[ST-1]: ../motivation/stakeholders.md#st-1
-[bg-1]: ../motivation/goals.md#bg-1
-[bg-2]: ../motivation/goals.md#bg-2
-[bg-3]: ../motivation/goals.md#bg-3
-[bg-4]: ../motivation/goals.md#bg-4
-[bg-5]: ../motivation/goals.md#bg-5
-[bg-6]: ../motivation/goals.md#bg-6
-[bg-7]: ../motivation/goals.md#bg-7
-[bg-8]: ../motivation/goals.md#bg-8
-[bd-1]: ../motivation/drivers.md#bd-1
-[bd-3]: ../motivation/drivers.md#bd-3
+[ST-1]: ../../motivation/stakeholders.md#st-1
+[bg-1]: ../../motivation/goals.md#bg-1
+[bg-2]: ../../motivation/goals.md#bg-2
+[bg-3]: ../../motivation/goals.md#bg-3
+[bg-4]: ../../motivation/goals.md#bg-4
+[bg-5]: ../../motivation/goals.md#bg-5
+[bg-6]: ../../motivation/goals.md#bg-6
+[bg-7]: ../../motivation/goals.md#bg-7
+[bg-8]: ../../motivation/goals.md#bg-8
+[bd-1]: ../../motivation/drivers.md#bd-1
+[bd-3]: ../../motivation/drivers.md#bd-3

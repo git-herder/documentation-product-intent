@@ -133,21 +133,21 @@ last_reviewed: 2026-10-16
 
 <!-- LINKS -->
 
-[SCM-PLATFORM-TERM]: ../../../glossary/terms/scm-platform.md
-[STAKEHOLDER-TERM]: ../../../glossary/terms/stakeholder.md
-[goals.md]: ../motivation/goals.md
-[ST-1]: ../motivation/stakeholders.md#st-1
-[ST-3]: ../motivation/stakeholders.md#st-3
-[bg-1]: ../motivation/goals.md#bg-1
-[bg-2]: ../motivation/goals.md#bg-2
-[bg-3]: ../motivation/goals.md#bg-3
-[bg-4]: ../motivation/goals.md#bg-4
-[bg-5]: ../motivation/goals.md#bg-5
-[bg-6]: ../motivation/goals.md#bg-6
-[bg-8]: ../motivation/goals.md#bg-8
-[bd-1]: ../motivation/drivers.md#bd-1
-[bd-7]: ../motivation/drivers.md#bd-7
+[SCM-PLATFORM-TERM]: ../../../../glossary/terms/scm-platform.md
+[STAKEHOLDER-TERM]: ../../../../glossary/terms/stakeholder.md
+[goals.md]: ../../motivation/goals.md
+[ST-1]: ../../motivation/stakeholders.md#st-1
+[ST-3]: ../../motivation/stakeholders.md#st-3
+[bg-1]: ../../motivation/goals.md#bg-1
+[bg-2]: ../../motivation/goals.md#bg-2
+[bg-3]: ../../motivation/goals.md#bg-3
+[bg-4]: ../../motivation/goals.md#bg-4
+[bg-5]: ../../motivation/goals.md#bg-5
+[bg-6]: ../../motivation/goals.md#bg-6
+[bg-8]: ../../motivation/goals.md#bg-8
+[bd-1]: ../../motivation/drivers.md#bd-1
+[bd-7]: ../../motivation/drivers.md#bd-7
 [repository-selection.md]: repository-selection.md
-[mass-clone.md]: mass-clone.md
+[mass-clone.md]: ../scm/mass-clone.md
 [resilient-network-execution.md]: resilient-network-execution.md
-[scm-repository-metadata.md]: scm-repository-metadata.md
+[scm-repository-metadata.md]: ../scm/scm-repository-metadata.md

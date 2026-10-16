@@ -175,21 +175,21 @@ Git Herder позволяет запустить поддерживаемую м
 
 <!-- LINKS -->
 
-[STAKEHOLDER-TERM]: ../../../glossary/terms/stakeholder.md
-[goals.md]: ../motivation/goals.md
+[STAKEHOLDER-TERM]: ../../../../glossary/terms/stakeholder.md
+[goals.md]: ../../motivation/goals.md
 [repository-selection.md]: repository-selection.md
 [profiles.md]: profiles.md
 [terminal-feedback.md]: terminal-feedback.md
 [operation-trace.md]: operation-trace.md
-[ST-1]: ../motivation/stakeholders.md#st-1
-[ST-3]: ../motivation/stakeholders.md#st-3
-[bg-1]: ../motivation/goals.md#bg-1
-[bg-2]: ../motivation/goals.md#bg-2
-[bg-3]: ../motivation/goals.md#bg-3
-[bg-4]: ../motivation/goals.md#bg-4
-[bg-5]: ../motivation/goals.md#bg-5
-[bg-6]: ../motivation/goals.md#bg-6
-[bg-7]: ../motivation/goals.md#bg-7
-[bg-8]: ../motivation/goals.md#bg-8
-[bd-3]: ../motivation/drivers.md#bd-3
-[bd-5]: ../motivation/drivers.md#bd-5
+[ST-1]: ../../motivation/stakeholders.md#st-1
+[ST-3]: ../../motivation/stakeholders.md#st-3
+[bg-1]: ../../motivation/goals.md#bg-1
+[bg-2]: ../../motivation/goals.md#bg-2
+[bg-3]: ../../motivation/goals.md#bg-3
+[bg-4]: ../../motivation/goals.md#bg-4
+[bg-5]: ../../motivation/goals.md#bg-5
+[bg-6]: ../../motivation/goals.md#bg-6
+[bg-7]: ../../motivation/goals.md#bg-7
+[bg-8]: ../../motivation/goals.md#bg-8
+[bd-3]: ../../motivation/drivers.md#bd-3
+[bd-5]: ../../motivation/drivers.md#bd-5

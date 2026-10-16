@@ -137,23 +137,23 @@ Git Herder даёт **общую модель отбора** для любой �
 
 <!-- LINKS -->
 
-[SCM-PLATFORM-TERM]: ../../../glossary/terms/scm-platform.md
-[STAKEHOLDER-TERM]: ../../../glossary/terms/stakeholder.md
-[upward-references]: ../../../playbook/principles/upward-references.md
+[SCM-PLATFORM-TERM]: ../../../../glossary/terms/scm-platform.md
+[STAKEHOLDER-TERM]: ../../../../glossary/terms/stakeholder.md
+[upward-references]: ../../../../playbook/principles/upward-references.md
 [profiles.md]: profiles.md
-[ST-1]: ../motivation/stakeholders.md#st-1
-[ST-3]: ../motivation/stakeholders.md#st-3
-[bg-1]: ../motivation/goals.md#bg-1
-[bg-2]: ../motivation/goals.md#bg-2
-[bg-3]: ../motivation/goals.md#bg-3
-[bg-4]: ../motivation/goals.md#bg-4
-[bg-5]: ../motivation/goals.md#bg-5
-[bg-6]: ../motivation/goals.md#bg-6
-[bg-7]: ../motivation/goals.md#bg-7
-[bg-8]: ../motivation/goals.md#bg-8
-[bd-1]: ../motivation/drivers.md#bd-1
-[bd-5]: ../motivation/drivers.md#bd-5
-[bd-7]: ../motivation/drivers.md#bd-7
-[mass-clone.md]: mass-clone.md
-[scm-repository-reports.md]: scm-repository-reports.md
-[scm-repository-metadata.md]: scm-repository-metadata.md
+[ST-1]: ../../motivation/stakeholders.md#st-1
+[ST-3]: ../../motivation/stakeholders.md#st-3
+[bg-1]: ../../motivation/goals.md#bg-1
+[bg-2]: ../../motivation/goals.md#bg-2
+[bg-3]: ../../motivation/goals.md#bg-3
+[bg-4]: ../../motivation/goals.md#bg-4
+[bg-5]: ../../motivation/goals.md#bg-5
+[bg-6]: ../../motivation/goals.md#bg-6
+[bg-7]: ../../motivation/goals.md#bg-7
+[bg-8]: ../../motivation/goals.md#bg-8
+[bd-1]: ../../motivation/drivers.md#bd-1
+[bd-5]: ../../motivation/drivers.md#bd-5
+[bd-7]: ../../motivation/drivers.md#bd-7
+[mass-clone.md]: ../scm/mass-clone.md
+[scm-repository-reports.md]: ../scm/scm-repository-reports.md
+[scm-repository-metadata.md]: ../scm/scm-repository-metadata.md

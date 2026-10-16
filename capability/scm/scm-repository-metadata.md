@@ -144,17 +144,17 @@ Git Herder даёт **единый CLI** для **массового** **доб�
 
 <!-- LINKS -->
 
-[SCM-PLATFORM-TERM]: ../../../glossary/terms/scm-platform.md
-[STAKEHOLDER-TERM]: ../../../glossary/terms/stakeholder.md
-[upward-references]: ../../../playbook/principles/upward-references.md
-[repository-selection.md]: repository-selection.md
-[profiles.md]: profiles.md
-[resilient-network-execution.md]: resilient-network-execution.md
-[operation-preview.md]: operation-preview.md
-[terminal-feedback.md]: terminal-feedback.md
-[operation-trace.md]: operation-trace.md
-[ST-1]: ../motivation/stakeholders.md#st-1
-[ST-2]: ../motivation/stakeholders.md#st-2
-[bg-4]: ../motivation/goals.md#bg-4
-[bd-6]: ../motivation/drivers.md#bd-6
-[bd-7]: ../motivation/drivers.md#bd-7
+[SCM-PLATFORM-TERM]: ../../../../glossary/terms/scm-platform.md
+[STAKEHOLDER-TERM]: ../../../../glossary/terms/stakeholder.md
+[upward-references]: ../../../../playbook/principles/upward-references.md
+[repository-selection.md]: ../platform/repository-selection.md
+[profiles.md]: ../platform/profiles.md
+[resilient-network-execution.md]: ../platform/resilient-network-execution.md
+[operation-preview.md]: ../platform/operation-preview.md
+[terminal-feedback.md]: ../platform/terminal-feedback.md
+[operation-trace.md]: ../platform/operation-trace.md
+[ST-1]: ../../motivation/stakeholders.md#st-1
+[ST-2]: ../../motivation/stakeholders.md#st-2
+[bg-4]: ../../motivation/goals.md#bg-4
+[bd-6]: ../../motivation/drivers.md#bd-6
+[bd-7]: ../../motivation/drivers.md#bd-7
