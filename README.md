@@ -17,6 +17,8 @@
 | Бизнес-цели                                                | `[motivation/goals.md](motivation/goals.md)`               |
 | [Capability](../../glossary/terms/capability.md) (каталог) | `[capability/](capability/)`                               |
 | Профили Git Herder                                         | `[capability/profiles.md](capability/profiles.md)`         |
+| Трассировка выполнения                                     | `[capability/operation-trace.md](capability/operation-trace.md)` |
+| Обратная связь в терминале                                 | `[capability/terminal-feedback.md](capability/terminal-feedback.md)` |
 
 ## Вне области продукта
 
