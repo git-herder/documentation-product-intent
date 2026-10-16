@@ -70,6 +70,9 @@ last_reviewed: 2026-10-16
 
 - Полный журнал выполнения для постфактум-разбора — см.
   [трассировку выполнения][operation-trace.md].
+- Полный **отчёт плана** в режиме предпросмотра — см.
+  [предпросмотр массовых операций][operation-preview.md] (здесь — краткие
+  сообщения и прогресс, если применимо).
 - Неинтерактивный режим для CI и скриптов без TTY — отдельная инициатива позже.
 - Сбор и долговременное хранение секретов через stdin — см. [README.md](../README.md)
   (учётные данные через окружение или ОС).
@@ -121,6 +124,7 @@ last_reviewed: 2026-10-16
 [upward-references]: ../../../playbook/principles/upward-references.md
 [profiles.md]: profiles.md
 [operation-trace.md]: operation-trace.md
+[operation-preview.md]: operation-preview.md
 [ST-1]: ../motivation/stakeholders.md#st-1
 [ST-3]: ../motivation/stakeholders.md#st-3
 [bg-1]: ../motivation/goals.md#bg-1
