@@ -74,9 +74,8 @@ last_reviewed: 2026-10-16
 - Именованные профили как единица «подключение к SCM + дефолты операций».
 - Переключение контекста: профиль по умолчанию и выбор профиля на вызов.
 - Проверка работоспособности профиля относительно SCM.
-- Дефолты параметров операций Git Herder (классы: организация или группа на SCM,
-  отбор репозиториев, целевые каталоги для локальных копий — без перечисления
-  конкретных флагов).
+- Дефолты параметров операций Git Herder, в том числе отбора; **семантика отбора**
+  для массовых операций — в [едином отборе для массовых операций][repository-selection.md].
 
 ### Не входит
 
@@ -133,12 +132,8 @@ last_reviewed: 2026-10-16
 
 <!-- LINKS -->
 
-[CAPABILITY-TERM]: ../../../glossary/terms/capability.md
 [SCM-PLATFORM-TERM]: ../../../glossary/terms/scm-platform.md
-[KEY-SCENARIO-TERM]: ../../../glossary/terms/key-scenario.md
-[REQUEST-TERM]: ../../../glossary/terms/request.md
 [STAKEHOLDER-TERM]: ../../../glossary/terms/stakeholder.md
-[stakeholders.md]: ../motivation/stakeholders.md
 [goals.md]: ../motivation/goals.md
 [upward-references]: ../../../playbook/principles/upward-references.md
 [ST-1]: ../motivation/stakeholders.md#st-1
@@ -152,3 +147,4 @@ last_reviewed: 2026-10-16
 [bg-8]: ../motivation/goals.md#bg-8
 [bd-1]: ../motivation/drivers.md#bd-1
 [bd-7]: ../motivation/drivers.md#bd-7
+[repository-selection.md]: repository-selection.md

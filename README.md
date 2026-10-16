@@ -9,7 +9,7 @@
 
 Слой мотивации — [бизнес-цели](../../glossary/terms/business-goal.md), [бизнес-драйверы](../../glossary/terms/business-driver.md)
 и [стейкхолдеры](../../glossary/terms/stakeholder.md):
-
+<!-- markdownlint-disable MD060 -->
 | Раздел                                                     | Файл                                                       |
 | ---------------------------------------------------------- | ---------------------------------------------------------- |
 | Стейкхолдеры                                               | `[motivation/stakeholders.md](motivation/stakeholders.md)` |
@@ -19,6 +19,7 @@
 | Профили Git Herder                                         | `[capability/profiles.md](capability/profiles.md)`         |
 | Трассировка выполнения                                     | `[capability/operation-trace.md](capability/operation-trace.md)` |
 | Обратная связь в терминале                                 | `[capability/terminal-feedback.md](capability/terminal-feedback.md)` |
+| Единый отбор для массовых операций                         | `[capability/repository-selection.md](capability/repository-selection.md)` |
 
 ## Вне области продукта
 
