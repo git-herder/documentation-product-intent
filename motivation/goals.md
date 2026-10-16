@@ -200,5 +200,5 @@ flowchart TB
 
 <!-- LINKS -->
 
-[BUSINESS-GOAL-TERM]: ../../glossary/terms/business-goal.md
-[SCM-PLATFORM-TERM]: ../../glossary/terms/scm-platform.md
+[BUSINESS-GOAL-TERM]: ../../../glossary/terms/business-goal.md
+[SCM-PLATFORM-TERM]: ../../../glossary/terms/scm-platform.md

@@ -75,5 +75,5 @@
 
 <!-- LINKS -->
 
-[BUSINESS-DRIVER-TERM]: ../../glossary/terms/business-driver.md
-[SCM-PLATFORM-TERM]: ../../glossary/terms/scm-platform.md
+[BUSINESS-DRIVER-TERM]: ../../../glossary/terms/business-driver.md
+[SCM-PLATFORM-TERM]: ../../../glossary/terms/scm-platform.md

@@ -27,8 +27,8 @@
 
 <!-- LINKS -->
 
-[SCM-PLATFORM-TERM]: ../glossary/terms/scm-platform.md
-[BUSINESS-GOAL-TERM]: ../glossary/terms/business-goal.md
-[BUSINESS-DRIVER-TERM]: ../glossary/terms/business-driver.md
-[STAKEHOLDER-TERM]: ../glossary/terms/stakeholder.md
-[CAPABILITY-TERM]: ../glossary/terms/capability.md
+[SCM-PLATFORM-TERM]: ../../glossary/terms/scm-platform.md
+[BUSINESS-GOAL-TERM]: ../../glossary/terms/business-goal.md
+[BUSINESS-DRIVER-TERM]: ../../glossary/terms/business-driver.md
+[STAKEHOLDER-TERM]: ../../glossary/terms/stakeholder.md
+[CAPABILITY-TERM]: ../../glossary/terms/capability.md

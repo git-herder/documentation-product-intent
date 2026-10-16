@@ -31,4 +31,4 @@ Maintainer OSS Git Herder — см. строку ST-3 в таблице выше
 
 <!-- LINKS -->
 
-[STAKEHOLDER-TERM]: ../../glossary/terms/stakeholder.md
+[STAKEHOLDER-TERM]: ../../../glossary/terms/stakeholder.md
