@@ -24,6 +24,7 @@
 | Массовое клонирование из SCM                               | `[capability/mass-clone.md](capability/mass-clone.md)` |
 | Отказоустойчивое выполнение массовых сетевых операций      | `[capability/resilient-network-execution.md](capability/resilient-network-execution.md)` |
 | Отчёт о репозиториях в SCM                                 | `[capability/scm-repository-reports.md](capability/scm-repository-reports.md)` |
+| Редактирование метаданных репозиториев на SCM              | `[capability/scm-repository-metadata.md](capability/scm-repository-metadata.md)` |
 
 ## Вне области продукта
 

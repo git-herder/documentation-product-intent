@@ -79,8 +79,10 @@ last_reviewed: 2026-10-16
 - Дефолты **политик** массовых операций и сетевого выполнения как класс настроек
   (например, поведение при клонировании — см.
   [массовое клонирование][mass-clone.md]; ретраи и очередь — см.
-  [отказоустойчивое выполнение][resilient-network-execution.md]) без фиксации
-  значений здесь.
+  [отказоустойчивое выполнение][resilient-network-execution.md]; правки
+  метаданных на SCM — см.
+  [редактирование метаданных репозиториев][scm-repository-metadata.md]) без
+  фиксации значений здесь.
 
 ### Не входит
 
@@ -148,3 +150,4 @@ last_reviewed: 2026-10-16
 [repository-selection.md]: repository-selection.md
 [mass-clone.md]: mass-clone.md
 [resilient-network-execution.md]: resilient-network-execution.md
+[scm-repository-metadata.md]: scm-repository-metadata.md
