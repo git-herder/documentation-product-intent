@@ -38,9 +38,7 @@
 | Редактирование метаданных репозиториев на SCM | [scm-repository-metadata.md](scm/scm-repository-metadata.md) | [BG-4](../motivation/goals.md#bg-4) |
 
 **Планируются** (цели есть, capability ещё не описаны): управление вебхуками
-([BG-3](../motivation/goals.md#bg-3)); API-часть массовой публикации при создании
-репозиториев на SCM ([BG-5](../motivation/goals.md#bg-5) — граница с локальным
-push уточняется при описании capability).
+([BG-3](../motivation/goals.md#bg-3)).
 
 ## Операции над локальными рабочими копиями — `local/`
 
@@ -49,8 +47,10 @@ push уточняется при описании capability).
 
 | Capability | Статус | Бизнес-цель |
 | ---------- | ------ | ----------- |
-| Массовое выполнение локальных git-операций | proposed | [BG-5](../motivation/goals.md#bg-5), [BG-6](../motivation/goals.md#bg-6), [BG-7](../motivation/goals.md#bg-7), [BG-8](../motivation/goals.md#bg-8) |
+| Публикация локальных рабочих копий в SCM | proposed | [BG-5](../motivation/goals.md#bg-5) |
+| Массовое выполнение локальных git-операций | proposed | [BG-6](../motivation/goals.md#bg-6), [BG-7](../motivation/goals.md#bg-7), [BG-8](../motivation/goals.md#bg-8) |
 
-См. [mass-local-git-operations.md](local/mass-local-git-operations.md) (pull, fetch, push, merge, switch, изменяющий remote).
+См. [publish-local-working-copies-to-scm.md](local/publish-local-working-copies-to-scm.md) (первая публикация: API SCM, origin, push);
+[mass-local-git-operations.md](local/mass-local-git-operations.md) (pull, fetch, push в существующие remotes, merge, switch, remote).
 
 Сквозная платформа (`platform/`) применяется к операциям в `scm/` и `local/` одинаково.
