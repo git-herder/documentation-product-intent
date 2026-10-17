@@ -49,9 +49,8 @@ push уточняется при описании capability).
 
 | Capability | Статус | Бизнес-цель |
 | ---------- | ------ | ----------- |
-| Массовое обновление копий (pull / fetch) | планируется | [BG-6](../motivation/goals.md#bg-6) |
-| Массовая публикация (push и связанный цикл) | планируется | [BG-5](../motivation/goals.md#bg-5) |
-| Массовое переключение веток (switch; merge — при описании) | планируется | [BG-8](../motivation/goals.md#bg-8) |
-| Управление remotes в наборе копий | планируется | [BG-7](../motivation/goals.md#bg-7) |
+| Массовое выполнение локальных git-операций | proposed | [BG-5](../motivation/goals.md#bg-5), [BG-6](../motivation/goals.md#bg-6), [BG-7](../motivation/goals.md#bg-7), [BG-8](../motivation/goals.md#bg-8) |
+
+См. [mass-local-git-operations.md](local/mass-local-git-operations.md) (pull, fetch, push, merge, switch, изменяющий remote).
 
 Сквозная платформа (`platform/`) применяется к операциям в `scm/` и `local/` одинаково.
