@@ -113,7 +113,9 @@ Capability:
 [публикация локальных рабочих копий в SCM](../capability/local/publish-local-working-copies-to-scm.md)
 (первая публикация: создание репозитория на SCM, origin, push дефолтной ветки);
 [массовое выполнение локальных git-операций](../capability/local/mass-local-git-operations.md)
-(класс push в уже существующие репозитории).
+(класс push в уже существующие репозитории);
+[двустороннее выравнивание рабочих копий][working-copy-exchange.md]
+(получение и отправка уже привязанной копии в одном прогоне).
 
 **Как измерять:** число пропущенных репозиториев или push в сценарии
 мультирепозиторной поставки; время полного цикла публикации набора относительно
@@ -129,7 +131,9 @@ Capability:
 
 **Массовое обновление локальных копий.** Повысить актуальность клонов набора
 (`git pull` / `git fetch`) без ручного обхода каждой рабочей копии. Capability:
-[массовое выполнение локальных git-операций](../capability/local/mass-local-git-operations.md).
+[массовое выполнение локальных git-операций](../capability/local/mass-local-git-operations.md);
+[двустороннее выравнивание рабочих копий][working-copy-exchange.md]
+(получение в том же прогоне, что и отправка).
 
 **Как измерять:** частота полного обновления набора (до/после внедрения практики
 с CLI); число дефектов или конфликтов, связанных с устаревшим кодом (опрос,
@@ -223,3 +227,4 @@ flowchart TB
 
 [BUSINESS-GOAL-TERM]: ../../../glossary/terms/business-goal.md
 [SCM-PLATFORM-TERM]: ../../../glossary/terms/scm-platform.md
+[working-copy-exchange.md]: ../capability/local/working-copy-exchange.md

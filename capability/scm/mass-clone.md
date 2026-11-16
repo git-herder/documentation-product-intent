@@ -4,7 +4,7 @@ title: "Массовое клонирование из SCM"
 status: proposed
 owners:
   - "Maintainer OSS (ST-3)"
-last_reviewed: 2026-10-16
+last_reviewed: 2026-11-16
 ---
 
 <!-- markdownlint-disable MD025 MD024 -->
@@ -101,8 +101,9 @@ Git Herder позволяет **одной командой** получить �
 
 ### Не входит
 
-- Обновление уже существующих копий (pull/fetch, sync) — отдельные операции
-  продукта.
+- Обновление уже существующих копий и
+  [выравнивание в обе стороны][working-copy-exchange.md] —
+  отдельные операции продукта.
 - Имена команд и флагов CLI, маппинг групп SCM на пути, значения политик по
   умолчанию — прикладная спецификация.
 
@@ -161,6 +162,7 @@ Git Herder позволяет **одной командой** получить �
 [operation-preview.md]: ../platform/operation-preview.md
 [terminal-feedback.md]: ../platform/terminal-feedback.md
 [operation-trace.md]: ../platform/operation-trace.md
+[working-copy-exchange.md]: ../local/working-copy-exchange.md
 [ST-1]: ../../motivation/stakeholders.md#st-1
 [ST-2]: ../../motivation/stakeholders.md#st-2
 [bg-1]: ../../motivation/goals.md#bg-1

@@ -4,7 +4,7 @@ title: "Массовое выполнение локальных git-опера�
 status: proposed
 owners:
   - "Maintainer OSS (ST-3)"
-last_reviewed: 2026-10-17
+last_reviewed: 2026-11-16
 ---
 
 <!-- markdownlint-disable MD025 MD024 -->
@@ -131,6 +131,8 @@ PATH, в рамках, разрешённых спецификацией.
 - **Первая публикация** локальных копий на SCM (создание репозитория через API,
   настройка origin, первый push) —
   [публикация локальных рабочих копий в SCM][publish-local-working-copies-to-scm.md].
+- Получение и отправка **в одном прогоне** —
+  [двустороннее выравнивание рабочих копий][working-copy-exchange.md].
 - Массовое **получение** копий с SCM (clone) — отдельная capability.
 - Rebase и иные git-команды вне перечисленных классов.
 - Имена команд и флагов CLI, алгоритмы ретрая, разрешение конфликтов ключей —
@@ -196,3 +198,4 @@ PATH, в рамках, разрешённых спецификацией.
 [bd-4]: ../../motivation/drivers.md#bd-4
 [bd-7]: ../../motivation/drivers.md#bd-7
 [publish-local-working-copies-to-scm.md]: publish-local-working-copies-to-scm.md
+[working-copy-exchange.md]: working-copy-exchange.md

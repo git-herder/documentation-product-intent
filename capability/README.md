@@ -49,8 +49,11 @@
 | ---------- | ------ | ----------- |
 | Публикация локальных рабочих копий в SCM | proposed | [BG-5](../motivation/goals.md#bg-5) |
 | Массовое выполнение локальных git-операций | proposed | [BG-6](../motivation/goals.md#bg-6), [BG-7](../motivation/goals.md#bg-7), [BG-8](../motivation/goals.md#bg-8) |
+| Двустороннее выравнивание рабочих копий | proposed | [BG-5](../motivation/goals.md#bg-5), [BG-6](../motivation/goals.md#bg-6) |
 
 См. [publish-local-working-copies-to-scm.md](local/publish-local-working-copies-to-scm.md) (первая публикация: API SCM, origin, push);
-[mass-local-git-operations.md](local/mass-local-git-operations.md) (pull, fetch, push в существующие remotes, merge, switch, remote).
+[mass-local-git-operations.md](local/mass-local-git-operations.md) (pull, fetch, push в существующие remotes, merge, switch, remote);
+[working-copy-exchange.md](local/working-copy-exchange.md)
+(получение и отправка в одном прогоне).
 
 Сквозная платформа (`platform/`) применяется к операциям в `scm/` и `local/` одинаково.
